@@ -1,1 +1,2 @@
-# vagrant-elasticsearch
+# Elasticsearch Vagrant 
+
